@@ -2,5 +2,7 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-\small{Fuck}
+def func(x,y):
+    return x*y
+
 Use the left arrow to go back!
